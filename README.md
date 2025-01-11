@@ -31,6 +31,7 @@ pip install ultralytics opencv-python-headless numpy
 - `main.py`: The main Python script for processing the video.
 - `output.json`: The JSON file containing metadata for all detected objects.
 - `output_video.mp4`: The annotated video with bounding boxes.
+- `drive_link.txt`: A file containing a shared Google Drive link to access additional resources.
 
 ## Usage
 
@@ -66,6 +67,10 @@ To run this code in Google Colab, use the provided notebook link:
 You can directly click the link above to open the notebook and try out the code.
 
 Upload your video file to Colab and execute the notebook cells to process the video.
+
+### 4. Additional Resources
+
+A Google Drive folder containing relevant resources can be accessed using the link in the `drive_link.txt` file included in this repository.
 
 ## How It Works
 
