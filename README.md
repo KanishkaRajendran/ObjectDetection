@@ -70,7 +70,7 @@ Upload your video file to Colab and execute the notebook cells to process the vi
 
 ### 4. Additional Resources
 
-A Google Drive folder containing relevant resources can be accessed using the link in the `drive_link.txt` file included in this repository.
+A Google Drive folder containing relevant resources can be accessed using the link in the `Demo_Video.md` file included in this repository.
 
 ## How It Works
 
